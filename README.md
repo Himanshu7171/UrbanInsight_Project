@@ -61,5 +61,49 @@ Install these in order:
 3. Select the `UrbanInsight_Project` folder
 4. Configure **Apache Tomcat Server**
 5. Right-click → `Run As` → `Run on Server`
-6. Open browser:  
+6. Open browser:  http://localhost:8080/UrbanInsight_Project
+
+yaml
+
+
+---
+
+## 📂 Project Documentation & Certificate
+
+📁 Access full docs, screenshots, and certificate:  
+[Google Drive Folder](https://drive.google.com/drive/folders/1y0iqJLUSSDASb0XXMo6aIRKyiINpON3p?usp=drive_link)
+
+---
+
+## 📌 Modules Included
+
+- 👩‍🎓 **Student Module** — Colleges, Schools, Job Alerts  
+- 🏥 **Healthcare Module** — Symptom-based advice + Chatbot  
+- 🧳 **Tourist Module** — Tourist & historical place info  
+- 👮‍♂️ **Admin Panel** — Add/edit/delete module data
+
+---
+
+## 👨‍💻 Developer Info
+
+- **Name**: Himanshu Nandkishor Lahane  
+- **Email**: [himanshulahaneh3@gmail.com](mailto:himanshulahaneh3@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/himanshu-lahane](https://www.linkedin.com/in/himanshu-lahane)
+
+---
+
+## ⭐ Bonus Tips
+
+- If you're using PHP components, place them in `htdocs/` inside XAMPP.
+- If port 8080 is busy, change the Tomcat port in `server.xml`.
+- Restart Apache and MySQL after configuration.
+
+---
+
+## 🙏 Thank You!
+
+If this project helped you or inspired you, please ⭐ star the repo and share!
+
+---
+
 
