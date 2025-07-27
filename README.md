@@ -49,4 +49,17 @@ Install these in order:
 
 1. Open **XAMPP** → Start `Apache` & `MySQL`
 2. Open **phpMyAdmin** in your browser
-3. Create a new database:  
+3. Create a new database:
+4. 4. Import the `.sql` file from the `/database` folder in the project
+
+---
+
+### 🚀 4. Import & Run in Eclipse
+
+1. Open **Eclipse**
+2. `File` → `Import` → `Existing Projects into Workspace`
+3. Select the `UrbanInsight_Project` folder
+4. Configure **Apache Tomcat Server**
+5. Right-click → `Run As` → `Run on Server`
+6. Open browser:  
+
